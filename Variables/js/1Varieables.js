@@ -51,4 +51,3 @@ console.log(persona);
 persona.nombre = "Alex";
 
 console.log(persona);
-
